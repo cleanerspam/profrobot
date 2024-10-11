@@ -1,62 +1,20 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑+𝐁𝐎𝐓!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗠𝗞𝗡+𝗕𝗢𝗧𝗭™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
-<p align="center">
 
 <h1 align="center">
-  <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
+  <b> REPO Connect</b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/PROFESSOR-BOT?style=flat-square&color=orange)](https://github.com/MrMKN/PROFESSOR-BOT/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
-
-[![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://stars.medv.io/MrMKN/PROFESSOR-BOT)
-
-<details>
-<summary><b>Features</b></summary>
-
-- [x] Auto Filter
-- [x] Manual Filter
-- [x] IMDB
-- [x] Admin Commands
-- [x] Broadcast
-- [x] Index
-- [x] IMDB Search
-- [x] Inline Search
-- [x] Random Pics
-- [x] Ids And User Info
-- [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
-- [x] Spelling Check Feature
-- [x] Custom File Caption
-- [x] Group Broadcast 
-- [x] AutoFilter Auto Delete
-- [x] Junk Group & Users Clearing On Database
-- [x] Global Filter
-- [x] Url Shortner In Autofilter
-- [x] Custom Button Lock
-- [x] Image Editor & Background Remover
-- [x] Pin, Json, Password Generator
-- [x] Ban, Mute, Unmute, Etc... Group Manager
-- [x] Custom Welcome Message
-- [x] Advanced Admin Panel
-- [x] Photo Changing In All Buttons
-- [x] Custom Start Message
-- [x] Custom Button Alter Message
-- [x] Advanced Status (Disk, Cpu, Ram, Uptime..) In Image Type
-</details>
 
 <details>
 <summary><b>Variables</b></summary>
   
-### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
+
+* `BOT_TOKEN`: .
+* `API_ID`: 
+* `API_HASH`: 
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URL`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
+* `DATABASE_URL`: 
+* `DATABASE_NAME`: 
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 * `SUPPORT_CHAT` : Username of a Support Group / ADMIN. ( Should be username without @ and not ID
   
@@ -73,19 +31,6 @@
 * `SHORT_API` : Api Key Of Shortner Which You Use
 </details>
 
-<details>
-<summary><b>Deploy to Heroku</b></summary>
-
-<a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/PROFESSOR-BOT)
-</details>
-
-<details>
-<summary><b>Deploy to Koyeb</b></summary>
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/MrMKN/PROFESSOR-BOT&env[WEBHOOK]=True&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[MAX_RIST_BTNS]=10&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URL]&env[DATABASE_NAME]=MknBotz&env[COLLECTION_NAME]=Telegram_files&env[SUPPORT_CHAT]&env[IMDB]=True&env[PM_IMDB]=True&env[IMDB_TEMPLATE]&env[IMDB_DELET_TIME]=900&env[SINGLE_BUTTON]=True&env[PMFILTER]=True&env[G_FILTER]=True&env[BUTTON_LOCK]=True&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=main&name=mr-rofessor)              
-</details>
 
 <details>
 <summary><b>Basic Commands</b></summary>
@@ -119,16 +64,6 @@ broadcast - to broadcast a message to all Eva Maria users
 ```
 
 </details>
-
-## TELAGRAM SUPPORT 
-
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/mkn_bots_updates)
-
-## Credit 💞
-
-* [![TEAM EVA-MARIA](https://img.shields.io/static/v1?label=TEAM&message=EVA-MARIA&color=yellow)](https://t.me/TeamEvamaria)
-
-* [![BASE REPO](https://img.shields.io/static/v1?label=BASE&message=REPO&color=green)](https://t.me/TeamEvamaria)
 
 
 ## Disclaimer
